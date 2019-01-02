@@ -1,0 +1,543 @@
+/* CSS Document */
+/*show more show less*/
+
+/*===HOME PAGE =======*/
+
+  .button1 {
+	float: right;
+    background-color: #04265b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:130px;
+    cursor: pointer;
+}
+
+
+  .buttonless1 {
+	float:right;
+    background-color: #04265b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:130px;
+    cursor: pointer;
+	display:none;
+}	
+    .button1:hover{
+    background-color: #8fbafc;
+    color:#000;
+    }
+
+/*second button*/
+
+  .button2 {
+	float:right;
+    background-color: #04265b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:130px;
+    cursor: pointer;
+}
+
+
+  .buttonless2 {
+	float:right;
+    background-color: #04265b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:130px;
+    cursor: pointer;
+	display:none;
+}	
+    .button2:hover{
+    background-color: #8fbafc;
+    color:#000;
+    }
+
+
+/*login form*/
+
+p{
+	font-size:25px;
+	text-decoration:underline;
+}
+
+
+#login{
+    height:380px;
+    width:400px;
+    background-color:#e8c829;
+    margin:auto;
+    margin-top:0;
+
+    margin-bottom:4%;
+    padding-top:5%;
+}
+
+/*register  & recovery account*/
+
+
+#register{
+    height:550px;
+    width:500px;
+    background-color:#e8c829;
+    margin:auto;
+    margin-top:0%;
+    margin-bottom:4%;
+    padding-top:5%;
+}
+
+
+
+
+
+
+
+
+
+
+.phrase{
+	padding-left:20px;
+}
+
+
+body{
+    margin:0;
+     background: linear-gradient(#165dce, #5886ce, #a5bde2, #dce6f7);
+}
+
+#container{
+    width:950px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+/*Log-in*/
+h1 a{
+	line-height:350%;
+	float:right;
+	padding-right:20px;
+	font-family:Tahoma, Geneva, Sans-Serif;
+	font-size:15px;
+	color:#fff;
+	text-decoration:none;
+}
+
+h1 a:hover{
+	text-decoration:underline;
+	color:#f2c900;
+}
+
+
+
+
+
+
+
+
+/*menu*/
+
+#menu{
+    height:55px;
+    background-color: #01235b;
+    width:950px;
+
+}
+
+#menu ul{
+    margin:0;
+    padding:0;
+}
+
+#menu li{
+    list-style-type:none;
+    float:left;
+    display:block;
+	
+    height:100%;
+    width:12%;
+    text-align:center;
+    line-height:350%;
+    font-family:Tahoma, Geneva, Sans-Serif;
+    font-size:15px;
+
+}
+
+#menu li a {
+    text-decoration:none;
+    color:#FFF;
+    
+}
+
+
+#menu li:hover{
+    background-color:#adccff;
+    font-weight: 900;
+
+}
+
+
+/*carousel*/
+	#Mycarousel{
+		margin-top:20px;
+
+	}
+
+
+#sidebar{
+    height:300px;
+    width:300px;
+    background-color:#bfd7ff;
+
+    float:right;
+    margin-top:2%;
+    margin-bottom:3%;
+	padding:20px;
+}
+
+.main{
+	color:#fff;
+	font-size:20px;
+}
+
+.date{
+	color:#fff;
+	font-size:20px;
+	float:right;
+}
+
+.author{
+	color:#fff;
+	font-size:15px;
+	
+}
+
+
+
+#mainbody{
+    height:1080px;
+    width:650px;
+    background-color:#92a9ce;
+    float:left;
+     margin-top:2%;
+     margin-bottom:3%;
+
+}
+
+#maintitle{
+	height:85px;
+	width:600px;
+	background-color:#045eef;
+	margin:24px;
+	padding:18px;
+	margin-bottom:0px;
+}
+
+#maincontent1{
+	width:600px;
+	height:320px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:20px;
+	margin-bottom:5px;
+}
+
+#maincontent2{
+	width:600px;
+	height:320px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:20px;
+	margin-bottom:5px;
+}
+
+.content2{
+	display:none;
+}
+
+.content4{
+	display:none;
+}
+
+
+/*about page and the rest*/
+
+.content{
+    height:500px;
+    width:950px;
+
+
+}
+
+
+#footer{
+    height:100px;
+    background-color:#262728;
+    clear:both;
+    margin-bottom:3%;
+	padding-left:20px;
+	line-height:620%;
+	font-family:Tahoma, Geneva, Sans-Serif;
+    font-size:15px;
+	 color:#FFF;
+}
+
+#footer a{
+	float:right;
+	padding-right:20px;
+	text-decoration:none;
+	color:#fff;
+
+}
+
+
+
+#footer a:hover{
+	text-decoration:underline;
+	color:#f2c900;
+    font-weight: 900;
+}
+
+/*======================ABOUT PAGE ================================*/
+
+
+#aboutContent{
+    height:1450px;
+    width:950px;
+    background-color:#92a9ce;
+    float:left;
+	margin-top:2%;
+	margin-bottom:3%;
+
+}
+
+/*MainTitle Use*/
+
+#Aboutmaintitle{
+	height:56px;
+	width:865px;
+	background-color:#045eef;
+	margin:24px;
+	padding:18px;
+	margin-bottom:0px;
+
+}
+
+.mainAbout{
+	color:#fff;
+	text-align:center;
+	font-size:30px;
+	font-family:Arial;
+	line-height:58px;
+
+}
+
+#mainAboutContentVM{
+	width:851px;
+	height:400px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:25px;
+	margin-bottom:3px;
+	margin-top:0px;
+	padding-bottom:8px;
+	
+}
+
+#mainAboutContentO{
+	width:851px;
+	height:400px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:25px;
+	margin-bottom:3px;
+	margin-top:0px;
+	padding-bottom:8px;
+	padding-top:8px;	
+}
+
+#mainAboutContentCV{
+	width:851px;
+	height:200px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:25px;
+	margin-bottom:3px;
+	margin-top:0px;
+	padding-bottom:8px;
+	padding-top:8px;	
+}
+
+
+
+
+.vision{
+	color:#002054;
+	font-size:30px;
+	text-align:center;
+
+}
+
+.visionStatement{
+	color:#000;
+	font-size:20px;
+	padding-bottom:12px;
+	text-align:center;
+
+}
+
+.mission{
+	color:#002054;
+	font-size:30px;
+	text-align:center;
+}
+
+.missionStatement{
+	color:#000;
+	font-size:20px;
+	text-align:center;
+}
+
+.objStatement{
+	font-size:20px;
+	text-align:justify; 
+	padding:10px;
+}	
+
+
+.cvStatement{
+	font-size:20px;
+	text-align:left;
+
+}
+
+/*==========================Gallery Page ===============================*/
+#galleryContent{
+    height:800px;
+    width:950px;
+    background-color:#92a9ce;
+    float:left;
+	margin-top:2%;
+	margin-bottom:3%;
+
+}
+
+#Gallerymaintitle{
+	height:56px;
+	width:865px;
+	background-color:#045eef;
+	margin:24px;
+	padding:18px;
+	margin-bottom:0px;
+
+}
+
+.mainGallery{
+	color:#fff;
+	text-align:center;
+	font-size:30px;
+	font-family:Arial;
+	line-height:58px;
+
+}
+
+#gallery{
+		margin-left:24px;
+		background-color:#fff;
+		height:510px;
+		width:761px;
+		padding:70px;
+}
+
+#gallery img{
+		margin-left:34px;
+		padding-left:5px;
+		padding-bottom:15px;
+		border:1px;
+		filter:grayscale(100%);
+		transition: 0.5s;
+
+}
+
+#gallery img:hover{
+		filter:grayscale(0);
+		transform: scale(1.1);
+}
+
+/*============TERMS AND CONDITIONS ===============*/
+
+#termsContent{
+    height:1450px;
+    width:950px;
+    background-color:#92a9ce;
+    float:left;
+	margin-top:2%;
+	margin-bottom:3%;
+
+}
+
+
+#termsMaintitle{
+	height:56px;
+	width:865px;
+	background-color:#045eef;
+	margin:24px;
+	padding:18px;
+	margin-bottom:0px;
+
+}
+
+.mainTerms{
+	color:#fff;
+	text-align:center;
+	font-size:30px;
+	font-family:Arial;
+	line-height:58px;
+
+}
+
+#mainTermsContent{
+	height:1278px;
+	width:851px;
+	background-color:#fff;
+	margin-left:24px;
+	padding:25px;
+	margin-bottom:3px;
+	margin-top:0px;
+	padding-bottom:8px;
+} 
+
+.TermsNum{
+	color:#002054;
+	font-size:30px;
+	text-align:left;
+}
+
+.TermsStatement{
+	color:#000;
+	font-size:20px;
+	padding-bottom:12px;
+	text-align:justify;
+
+}

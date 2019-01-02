@@ -1,0 +1,306 @@
+#maintitle{
+	height:75px;
+	width:865px;
+	 background: linear-gradient(to right,#041a3d, #0b3a84, #1666e2);
+	margin:24px;
+	padding:18px;
+	margin-bottom:9px;
+}
+
+
+.postTitle{
+	font-family:Arial;
+	font-size:20px;
+	font-weight:30px;
+	color:#FFF;
+
+
+}
+
+.postContent{
+	font-family:Arial;
+	font-size:18px;
+	font-weight:30px;
+	color:#000;
+}
+
+
+
+small{
+	color:#fff;
+	font-family:Arial;
+	font-size:15px;
+
+}
+
+.btnShowPost {
+    background-color: #ffeb87;
+	height:20px;
+	width:80px;
+	float:right;
+    cursor: pointer;
+	padding:15px;
+	font-family:Arial;
+	color:#000;
+	text-decoration:none;
+	border: 3px solid #635604;
+}
+ 
+.btnShowPost:hover{
+	background-color: #ffd400;
+	color:#000;
+
+
+}
+
+/*===================POSTED PAGE ==============*/
+
+.btnBack{
+	background-color: #b2e5ff;
+	height:20px;
+	width:80px;
+	float:left;
+    cursor: pointer;
+	padding:15px;
+	margin:20px;
+	margin-left:24px;
+	font-family:Arial;
+	color:#000;
+	text-decoration:none;
+	border-style:solid;
+	text-align:center;
+
+}
+
+.btnBack:hover{
+	background-color: #3fbeff;
+	color:#000;
+
+
+}
+
+.btnEdit{
+	background-color: #5761a8;
+	height:20px;
+	width:80px;
+	float:right;
+    cursor: pointer;
+	padding:15px;
+	margin:20px;
+	margin-right:24px;
+	font-family:Arial;
+	color:#fff;
+	text-decoration:none;
+	border:3px solid #05265b;
+	text-align:center;
+
+}
+
+.btnEdit:hover{
+	background-color: #0a1eb2;
+	color:#fff;
+
+
+}
+
+.btnDelete{
+	background-color: #ef7575;
+	height:60px;
+	width:110px;
+	float:right;
+    cursor: pointer;
+	padding:15px;
+	margin:20px;
+	margin-right:24px;
+	font-family:Arial;
+	color:#fff;
+	text-decoration:none;
+	border:3px solid #330000;
+	text-align:center;
+
+}
+
+.btnDelete:hover{
+	background-color: #7c0000;
+	color:#fff;
+
+
+}
+
+
+#showContent{
+    height:900px;
+    width:950px;
+    background-color:#92a9ce;
+    float:left;
+	margin-top:2%;
+	margin-bottom:3%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#maintitleP{
+	height:75px;
+	width:865px;
+	 background: linear-gradient(to right,#041a3d, #0b3a84, #1666e2);
+	margin:24px;
+	padding:18px;
+	margin-top:90px;
+	margin-bottom:0px;
+}
+
+
+#maincontent1P{
+	width:861px;
+	height:550px;
+	background-color:#eff9ff;
+	margin-left:24px;
+	padding:20px;
+	
+}
+
+/*===================ADD POST============*/
+
+
+#addPostTitle{
+	height:85px;
+	width:800px;
+	background-color:#093172;
+	margin:auto;
+	margin-top:30;
+
+}
+
+.mainAddPost{
+	font-family:Arial;
+	font-size:25px;
+	color:#fff;
+	text-align:left;
+	padding:20px;
+	line-height:43px;
+}
+
+
+#addPost{
+    height:500px;
+    width:800px;
+    background-color:#e8c829;
+    margin:auto;
+    margin-top:0%;
+    margin-bottom:4%;
+    padding-top:5%;
+}
+
+#postContent{
+    height:700px;
+    width:950px;
+    background-color:#92a9ce;
+    float:left;
+	margin-top:2%;
+	margin-bottom:3%;
+
+}
+
+label{
+	font-family:Arial, Sans-serif;
+	font-size:20px;
+	padding-left:120px;
+
+}
+
+/*input text*/
+input[type=text] {
+	width: 60%;
+	padding: 10px 20px;
+	margin:0;
+	box-sizing: border-box;
+}
+
+#postsTitle{
+	margin-left:42px;
+}	
+
+#postsAuthor{
+	margin-left:20px;
+}	
+
+#postsBody{
+	margin-left:20px;
+}	
+
+#postsDate{
+	margin-left:36px;
+}
+textarea{
+	width: 60%;
+	height:30%;
+	margin-left:33px;
+	
+}
+
+.button {
+	background-color: #04265b;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-left:350px;
+	cursor: pointer;
+	bottom:-15px;
+	position:absolute;
+
+	}
+	.button:hover{
+	background-color: #8fbafc;
+	color:#000;
+	}
+
+.btnAddBack{
+	background-color: #b2e5ff;
+	height:20px;
+	width:80px;
+	float:right;
+    cursor: pointer;
+	padding:15px;
+	margin:15px;
+	font-family:Arial;
+	color:#000;
+	text-decoration:none;
+	border-style:solid;
+	text-align:center;
+
+}
+
+.btnAddBack:hover{
+	background-color: #3fbeff;
+	color:#000;
+
+
+}
+

@@ -1,0 +1,26 @@
+body{
+	margin:right;
+}
+
+.granted{
+	background-color:#62f762;
+	border:4px solid #023000;
+	width:500px;
+	padding:10px;
+	font-family:Arial;	
+	margin:auto;
+	color:#011c00;
+	text-align:center;
+}
+	
+.error{
+	background-color:#ef7777;
+	border:4px solid #930000;
+	width:500px;
+	padding:10px;
+	font-family:Arial;	
+	margin:auto;
+	color:#630000;
+	text-align:center;
+
+}
